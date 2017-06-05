@@ -75,6 +75,9 @@ body{
   0px 0px 0px 4px black inset,
   2px 2px 10px 0px black inset; padding:5px;margin:20px;}
 
+#gradient{
+  font-size:30px;
+}
 .button{
   display:block;
   margin:5px;
@@ -92,3 +95,4 @@ body{
     #0081B4 50%,
     #63B3D2 50%,
     #BFE5F2);
+}
