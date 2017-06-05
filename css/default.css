@@ -9,7 +9,7 @@ body{
   background-image:url(../img/uo.jpg),url(../img/shumai.jpg);
   background-repeat:no-repeat,no-repeat;
   background-size:100px 100px,contain;
-  background-color: lightgray;
+  
   margin:5px;
 }
 
