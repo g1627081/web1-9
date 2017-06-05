@@ -8,7 +8,7 @@
 body{
   background-image:url(../img/uo.jpg),url(../img/shumai.jpg);
   background-repeat:no-repeat,no-repeat;
-  background-size:100% 100%,cover;
+  background-size:5% 100%,cover;
   background-color: lightgray;
   margin:5px;
 }
