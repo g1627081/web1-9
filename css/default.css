@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-*{
+* {
   margin:0;
   padding:0;
 }
@@ -19,7 +19,7 @@ body{
                text-shadow:0px 0px 5px grey}
 .bebel        {color:silver;
                text-shadow:-1px -1px 0px white,
-                           -1px -1px 0px darkgreen;}
+                           1px 1px 0px darkgreen;}
 .embos        {color:white;
                text-shadow: -1px -1px 0px darkgreen,
                            1px 1px 0px white;}
